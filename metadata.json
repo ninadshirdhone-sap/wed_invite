@@ -1,0 +1,6 @@
+{
+  "name": "Ninad & Rachana Wedding Invitation",
+  "description": "Royal Indian temple digital wedding invitation for Ninad & Rachana featuring interactive RSVP, ceremony itinerary, falling petal blessings, live countdown, and music.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

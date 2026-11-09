@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" fill="currentColor">
+  <!-- Calligraphic Ganpati Bappa Logo -->
+  <g id="ganpati-calligraphy">
+    <!-- Top Flame / Swirl -->
+    <path d="M410 30 C435 25 465 45 460 75 C455 100 425 110 405 95 C390 85 395 65 410 60 C425 55 440 68 435 85 C430 92 418 95 412 90 C406 85 410 75 420 72 C428 70 435 78 430 84" fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" />
+    
+    <!-- Crown / Pagdi Crescents -->
+    <path d="M398 120 C425 112 475 112 502 120" fill="none" stroke="currentColor" stroke-width="18" stroke-linecap="round" />
+    <path d="M385 145 C420 135 480 135 515 145" fill="none" stroke="currentColor" stroke-width="19" stroke-linecap="round" />
+    <path d="M368 172 C415 158 485 158 532 172" fill="none" stroke="currentColor" stroke-width="21" stroke-linecap="round" />
+    <path d="M348 202 C410 185 490 185 552 202" fill="none" stroke="currentColor" stroke-width="23" stroke-linecap="round" />
+
+    <!-- Central Forehead & Trunk Stroke -->
+    <path d="M450 205 Q475 350 460 500 Q445 650 390 730" fill="none" stroke="currentColor" stroke-width="20" stroke-linecap="round" />
+
+    <!-- Eye & Eyebrow -->
+    <path d="M375 278 Q410 282 442 320" fill="none" stroke="currentColor" stroke-width="15" stroke-linecap="round" />
+    <path d="M380 305 Q415 310 432 355 Q395 352 380 305 Z" fill="currentColor" />
+
+    <!-- Left Ear Calligraphic Flourish -->
+    <path d="M355 490 C300 450 240 380 240 300 C240 220 300 195 340 245 C355 265 345 295 320 295 C295 295 285 270 295 250" fill="none" stroke="currentColor" stroke-width="22" stroke-linecap="round" stroke-linejoin="round" />
+
+    <!-- Right Ear Calligraphic Flourish -->
+    <path d="M505 475 C560 440 620 375 620 295 C620 215 560 195 520 245 C505 265 515 295 540 295 C565 295 575 270 565 250" fill="none" stroke="currentColor" stroke-width="22" stroke-linecap="round" stroke-linejoin="round" />
+
+    <!-- Lower Body / Seated Belly Curves -->
+    <!-- Left Loop -->
+    <path d="M400 505 C330 505 245 560 245 655 C245 750 345 780 455 780" fill="none" stroke="currentColor" stroke-width="24" stroke-linecap="round" />
+    <!-- Right Loop -->
+    <path d="M455 515 C520 515 585 550 585 640 C585 730 520 765 440 765" fill="none" stroke="currentColor" stroke-width="22" stroke-linecap="round" />
+
+    <!-- Flowing Trunk Tail Swoosh at Bottom -->
+    <path d="M410 775 C370 820 325 870 335 930 C342 965 375 980 405 970" fill="none" stroke="currentColor" stroke-width="18" stroke-linecap="round" />
+  </g>
+</svg>
